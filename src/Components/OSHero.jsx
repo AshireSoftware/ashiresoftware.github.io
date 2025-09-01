@@ -78,7 +78,7 @@ function OSHero() {
         <div class="max-w-7xl mx-auto px-4 text-center">
           <h3 class="text-3xl font-semibold mb-8">AshireOS in Action</h3>
           <img
-            src="https://github.com/AshireSoftware/ashiresoftware.github.io/blob/main/src/assets/desktop.png"
+            src="https://raw.githubusercontent.com/AshireSoftware/ashiresoftware.github.io/refs/heads/main/src/assets/desktop.png"
             alt="AshireOS Showcase"
             class="mx-auto rounded-lg shadow-lg"
           />
