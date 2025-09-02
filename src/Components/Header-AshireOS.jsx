@@ -1,12 +1,12 @@
-function Header() {
+function HeaderAshireOS() {
   return (
     <>
       <header class="bg-[#1e1e1e] shadow-md">
         <div class="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
-          <h1 class="text-2xl font-bold">AshireSoftware</h1>
+          <h1 class="text-2xl font-bold">AshireOS</h1>
           <nav class="space-x-6">
-            <a href="/OS" class="hover:text-orange-500">
-              AshireOS
+            <a href="#features" class="hover:text-orange-500">
+              Features
             </a>
             <a href="#showcase" class="hover:text-orange-500">
               Showcase
@@ -24,4 +24,4 @@ function Header() {
   );
 }
 
-export default Header;
+export default HeaderAshireOS;

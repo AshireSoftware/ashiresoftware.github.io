@@ -1,12 +1,10 @@
 import './App.css'
-import Footer from './Components/Footer'
-import Head from './Components/Head'
-import BodyHome from './Components/Body-Home'
-import Header from './Components/Header'
 import HeaderAshireOS from './Components/Header-AshireOS'
 import OSHero from './Components/OSHero'
+import Footer from './Components/Footer'
+import Head from './Components/Head'
 
-function App() {
+function AshireOS() {
   return (
     <>
     <Head />
@@ -17,4 +15,4 @@ function App() {
   )
 }
 
-export default App
+export default AshireOS
