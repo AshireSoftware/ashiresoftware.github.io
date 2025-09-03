@@ -91,7 +91,7 @@ function OSHero() {
       >
         <h3 class="text-3xl font-semibold mb-8">Download AshireOS</h3>
         <p class="mb-6 text-gray-300">
-          Click below to download the latest version.
+          Click below to download the latest version of AshireOS, the best way to preview the Ashire Desktop.
         </p>
         <a
           href="https://github.com/AshireSoftware/AshireOS/releases/download/preview/AshireOS-Preview-amd64.iso"
