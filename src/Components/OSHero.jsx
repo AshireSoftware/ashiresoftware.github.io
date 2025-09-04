@@ -7,8 +7,7 @@ function OSHero() {
             A Clean, Beginner-Friendly Computing Experience
           </h2>
           <p class="text-lg mb-8">
-            Powered by a custom Qt Quick / Qt6 desktop environment, designed for
-            simplicity and elegance.
+            Powered by a custom desktop environment, built with Qt Quick and designed for simplicity and elegance.
           </p>
           <a
             href="#download"
